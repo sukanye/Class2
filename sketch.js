@@ -13,7 +13,7 @@ function draw() {
 
 //Constructor
 function Eyeballs(x,y) {
-  //this.pupil movement:
+
   scleraX = 150;
   scleraY = 250;
   scleraSize = 100;
