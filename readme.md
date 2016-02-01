@@ -1,4 +1,4 @@
-
+1
 # Homework Due Sunday, January 31:
 ## [Fill out this survey](https://surveyplanet.com/56a97f0e4bd6c096645444c4) (9 questions)
 …or don't, you have the option of being anonymous so I don't know who did or didn't. I do find it really helpful and it impacts what we do next week. For example this was a question and answer from last week's survey.
