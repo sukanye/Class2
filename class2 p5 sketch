@@ -10,6 +10,7 @@ var Sukanya = {
   favMovie : radioRock;
   favRapper : kendrick;
   favTerm : "lol";
+  favFood : var cookieDough;
 }
 
 var cookieDough = {
