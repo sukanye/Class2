@@ -1,0 +1,20 @@
+function setup() {
+  createCanvas(500,500);
+}
+
+function draw() {
+
+}
+
+var Sukanya = {
+  favMovie : radioRock;
+  favRapper : kendrick;
+  favTerm : "lol";
+}
+
+var cookieDough = {
+  chewy : true;
+  clumpy : true;
+  color: "brown";
+  number : many; 
+}
