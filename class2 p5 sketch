@@ -1,16 +1,8 @@
 function setup() {
-  createCanvas(500,500);
 }
 
 function draw() {
 
-}
-
-var Sukanya = {
-  favMovie : radioRock;
-  favRapper : kendrick;
-  favTerm : "lol";
-  favFood : var cookieDough;
 }
 
 var cookieDough = {
@@ -19,3 +11,11 @@ var cookieDough = {
   color: "brown";
   number : many; 
 }
+
+var Sukanya = {
+  favMovie : radioRock;
+  favRapper : kendrick;
+  favTerm : "lol";
+  favFood : cookieDough;
+}
+
